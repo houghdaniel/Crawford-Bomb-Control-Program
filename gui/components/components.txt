@@ -1,0 +1,2 @@
+plot - will work basically same as old one, just in same window
+text field, button - use defaults

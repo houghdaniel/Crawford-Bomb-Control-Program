@@ -1,0 +1,1 @@
+# Will hold text fields to specify sample rate, transducer calibration, DAC ports, camera IP addresses (If can get camera control to work)
