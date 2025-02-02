@@ -1,0 +1,8 @@
+{
+    "fill_valve": "TDAC7",
+    "vent_valve": "DAC1",
+    "ignition_relay": "DAC0",
+    "transducer": "AIN3",
+    "camera_trigger": "TDAC6",
+    "sample_rate": 100
+}
